@@ -1,2 +1,2 @@
 # Utility
-collection of  Small utility fro window.
+collection of  Small utility for window.
