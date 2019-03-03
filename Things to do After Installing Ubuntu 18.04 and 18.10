@@ -1,0 +1,5 @@
+1. Change the look of your desktop with new themes and icons:
+   Once it is installed, you can easily install new themes and icons. 
+   
+   sudo apt install gnome-tweak-tool
+   
