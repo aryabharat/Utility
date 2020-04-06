@@ -1,0 +1,4 @@
+My ubunut 18.04 shell was very slow, generally treid most of the things to make it work faster.
+Just then came across a great article: 
+https://vitux.com/5-ways-to-speed-up-ubuntu/ 
+Every thing works! try it.
